@@ -1,0 +1,14 @@
+{
+    "name": "y7-noise",
+    "description": "Is the reading corner too loud?",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "preferredEditor": "pyprj"
+}
